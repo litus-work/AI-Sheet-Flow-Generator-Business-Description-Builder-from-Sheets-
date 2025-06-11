@@ -3,7 +3,7 @@ This workflow processes rows from a Google Sheet and transforms them into compel
 
 Each row contains a customer profile.
 
-AI agent generates a short, professional, German-language description.
+AI agent generates a short, professional description.
 
 Results are written back to the sheet for further use.
 Ideal for building text blocks for landing pages, sales materials, and slide decks.
